@@ -1,54 +1,63 @@
+
 # SOMA PLAY -MVP
 
 
 
 ## Description
-An AR-enhanced board game that teaches children aged 6-12 about STEM education. Players scan physical game cards using a mobile ar app with  + AR Foundation, triggering interactive 3D experiences, quizzes, and animations.
+Soma Play is an AR-enhanced board game that is designed to teach children aged 6-12 foundational STEM concepts. Players interact with physical game cards that, when scanned using a mobile app built with unity + AR foundation, trigger immersive 3D experiences, quizzes, animations an deducational prompts. The game integrates both hardware (board, cards, dice) and software (AR app, 3d assets), designed with a strong user-centric approach.
 
 
 
 
 ## Github Repository
-[GitHub Repo] (https://github.com/nalule-grace/SomaPlay.git)
+[Some Play GitHub Repo] (https://github.com/nalule-grace/SomaPlay.git)
 
 
 
 ## Setup Instructions
 
-1. **Clone or unzip** the unity project
+1. **Clone or unzip** the unity repository
 2. Open using  **Unity 2022.3 LTS or a later version**
-3. Ensure **AR Foundation 5.1** and **XR Plugin Management** are installed
-4. Lean touch plugin
-5. Printable image tracking cards
+3. Ensure **AR Foundation 5.1**, **lean touch and **XR Plugin Management** are installed
+4. Prepare printable image tracking cards
 
 
 ## Designs
-Comprehesive document with all diagrams, justifications and illustrations.
+All design justifications, diagrams are documented in the extended project file below.
+
 [Designs Doc] (https://docs.google.com/document/d/1SPDFK9dUVWLdSxQzr06eGoGTeCyo9S41027zAdXezGE/edit?usp=sharing)
 
 
 
-## Mockup ##
-Figma mockup of ar app
+## Figma Mockup ##
+Interactive mockup of mobile app showing UI/UX flows and interactivity.
 [ Figma ] (https://www.figma.com/proto/bwnNZIhLLty5Cx4TGf0vpW/Course-EdTech-Mobile-App--Community-?node-id=54-225&p=f&t=y9AY7L7lMKbxv7Jy-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1/)
 
 ## Deployment Plan
-Design all AR marker (cards)
+Finalize AR marker designs (cards)
 Implement marker-based tracking
-Import optimized 3d models
-Next steps: Usability testing, publishing on google Play, training guides for educators.
-Prepare APK for distribution
+Integrate and  optimize 3d models
+Build out quiz interactions and mini games
+Conduct Usability testing with children 
+Create training guides for educators
 
-## Video Demo
-Find video demo here 
+
+## Video Walkthrough
+Find video here 
 (https://youtu.be/KAFAdw9KKIY?si=-lAZbzT0lno2UF7X)
+
+Includes
+Board game walkthrough
+Cards walkthrough
+User journey
 
 
 ## Assets
 All assets and scenes are packaged, including:
--Prefabs
+-3d Prefabs
 -Scripts
 -Ui components
+-Board and Cards
 
 
 ---
