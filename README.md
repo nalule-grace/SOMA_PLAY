@@ -1,6 +1,3 @@
-this is a readme
-
-
 # SOMA PLAY -MVP
 
 
@@ -26,14 +23,13 @@ An AR-enhanced board game that teaches children aged 6-12 about STEM education. 
 
 
 ## Designs
+Comprehesive document with all diagrams, justifications and illustrations.
 [Designs Doc] (https://docs.google.com/document/d/1SPDFK9dUVWLdSxQzr06eGoGTeCyo9S41027zAdXezGE/edit?usp=sharing)
 
-**Figma UI Mockups**
-**Board Layout**
-**Sample Card games**
-**Accesibility UI**
+
 
 ## Mockup ##
+Figma mockup of ar app
 [ Figma ] (https://www.figma.com/proto/bwnNZIhLLty5Cx4TGf0vpW/Course-EdTech-Mobile-App--Community-?node-id=54-225&p=f&t=y9AY7L7lMKbxv7Jy-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1/)
 
 ## Deployment Plan
@@ -45,6 +41,7 @@ Prepare APK for distribution
 
 ## Video Demo
 Find video demo here 
+(https://youtu.be/KAFAdw9KKIY?si=-lAZbzT0lno2UF7X)
 
 
 ## Assets
