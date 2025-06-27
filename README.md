@@ -44,7 +44,10 @@ Create training guides for educators
 
 ## Video Walkthrough
 Find video here 
-(https://youtu.be/KAFAdw9KKIY?si=-lAZbzT0lno2UF7X)
+(https://drive.google.com/file/d/10aa4zQYH3GbMGg_6pr4u3ocQ9K-dgzS7/view?usp=drivesdk)
+
+##LINK TO APK FILE
+Find Apk here(https://drive.google.com/file/d/1XDlfzmYYhgE5cKOq6I0BXzf2yom3hNGM/view?usp=sharing)
 
 Includes
 Board game walkthrough
