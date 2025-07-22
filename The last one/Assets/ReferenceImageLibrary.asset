@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5120382348825051351
+  m_GuidHigh: 11282723440765697464
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4945355912197945290
+      m_GuidHigh: 4630653885781546939
+    m_SerializedTextureGuid:
+      m_GuidLow: 13426598203427717502
+      m_GuidHigh: 14682026470130524346
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: earth
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4858157030262933249
+      m_GuidHigh: 7535008436504128403
+    m_SerializedTextureGuid:
+      m_GuidLow: 11976386049216825803
+      m_GuidHigh: 2613876888826922952
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: elephant
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4938435159102340407
+      m_GuidHigh: 117603018736822689
+    m_SerializedTextureGuid:
+      m_GuidLow: 2500739756226074214
+      m_GuidHigh: 6743923315049292283
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5652596994286478486
+      m_GuidHigh: 12572471873230633619
+    m_SerializedTextureGuid:
+      m_GuidLow: 2829471143327448068
+      m_GuidHigh: 16915078520708730280
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: skeleton
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5221502132134047822
+      m_GuidHigh: 1739838046505967281
+    m_SerializedTextureGuid:
+      m_GuidLow: 6117024033977810615
+      m_GuidHigh: 16800423330913758490
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: plant
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5139190366595698974
+      m_GuidHigh: 3630785948830977727
+    m_SerializedTextureGuid:
+      m_GuidLow: 2739382631492414955
+      m_GuidHigh: 11522233181657049848
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: robot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5202990340514757200
+      m_GuidHigh: 10492606401998583972
+    m_SerializedTextureGuid:
+      m_GuidLow: 6977384625943880241
+      m_GuidHigh: 8618476852536690571
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: rocket
+    m_Texture: {fileID: 0}

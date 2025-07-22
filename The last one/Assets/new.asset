@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: new
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4860316965980827746
+  m_GuidHigh: 13887321677925041045
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5209798084544388485
+      m_GuidHigh: 13924447561965547442
+    m_SerializedTextureGuid:
+      m_GuidLow: 10620816955600104078
+      m_GuidHigh: 12584975801296664584
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: system solar
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5749704133205529418
+      m_GuidHigh: 4570385148659475382
+    m_SerializedTextureGuid:
+      m_GuidLow: 5837911715657904344
+      m_GuidHigh: 7123710282012776778
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: croc
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5684843776684256859
+      m_GuidHigh: 17258910347420522653
+    m_SerializedTextureGuid:
+      m_GuidLow: 3005159862877172032
+      m_GuidHigh: 6469681299434188219
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: digestion
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4810709639502224771
+      m_GuidHigh: 11892583652433983131
+    m_SerializedTextureGuid:
+      m_GuidLow: 5297441511875744708
+      m_GuidHigh: 6812356792549519065
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: fish
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5255649182472680432
+      m_GuidHigh: 14191532906039291011
+    m_SerializedTextureGuid:
+      m_GuidLow: 5144286287305428884
+      m_GuidHigh: 17592660788965953753
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: flower
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5486776177993568837
+      m_GuidHigh: 8947048259245414584
+    m_SerializedTextureGuid:
+      m_GuidLow: 9319139304987366378
+      m_GuidHigh: 13513753055098883096
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: frog
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5117223741493453567
+      m_GuidHigh: 8034467620629792412
+    m_SerializedTextureGuid:
+      m_GuidLow: 9355184072663507476
+      m_GuidHigh: 14988693032441982555
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: heart
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5133389534338811658
+      m_GuidHigh: 6586614001369951364
+    m_SerializedTextureGuid:
+      m_GuidLow: 6117024033977810615
+      m_GuidHigh: 16800423330913758490
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: plant
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4732290582109542495
+      m_GuidHigh: 14782064881023489164
+    m_SerializedTextureGuid:
+      m_GuidLow: 2829471143327448068
+      m_GuidHigh: 16915078520708730280
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: skeleton
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4761686619083862622
+      m_GuidHigh: 3912670830776821937
+    m_SerializedTextureGuid:
+      m_GuidLow: 13426598203427717502
+      m_GuidHigh: 14682026470130524346
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: earth
+    m_Texture: {fileID: 0}
