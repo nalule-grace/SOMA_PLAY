@@ -21,8 +21,8 @@ MonoBehaviour:
       m_GuidLow: 5209798084544388485
       m_GuidHigh: 13924447561965547442
     m_SerializedTextureGuid:
-      m_GuidLow: 10620816955600104078
-      m_GuidHigh: 12584975801296664584
+      m_GuidLow: 9323815518016375502
+      m_GuidHigh: 6764887684358319466
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: system solar
@@ -31,8 +31,8 @@ MonoBehaviour:
       m_GuidLow: 5749704133205529418
       m_GuidHigh: 4570385148659475382
     m_SerializedTextureGuid:
-      m_GuidLow: 5837911715657904344
-      m_GuidHigh: 7123710282012776778
+      m_GuidLow: 5639809511713208007
+      m_GuidHigh: 7770171963793427259
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: croc
@@ -41,8 +41,8 @@ MonoBehaviour:
       m_GuidLow: 5684843776684256859
       m_GuidHigh: 17258910347420522653
     m_SerializedTextureGuid:
-      m_GuidLow: 3005159862877172032
-      m_GuidHigh: 6469681299434188219
+      m_GuidLow: 12615939869148634244
+      m_GuidHigh: 4292556577084716873
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: digestion
@@ -51,8 +51,8 @@ MonoBehaviour:
       m_GuidLow: 4810709639502224771
       m_GuidHigh: 11892583652433983131
     m_SerializedTextureGuid:
-      m_GuidLow: 5297441511875744708
-      m_GuidHigh: 6812356792549519065
+      m_GuidLow: 4149103801416776069
+      m_GuidHigh: 9999756729235902202
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: fish
@@ -61,8 +61,8 @@ MonoBehaviour:
       m_GuidLow: 5255649182472680432
       m_GuidHigh: 14191532906039291011
     m_SerializedTextureGuid:
-      m_GuidLow: 5144286287305428884
-      m_GuidHigh: 17592660788965953753
+      m_GuidLow: 14845065726903000095
+      m_GuidHigh: 13143728941910381481
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: flower
@@ -81,8 +81,8 @@ MonoBehaviour:
       m_GuidLow: 5117223741493453567
       m_GuidHigh: 8034467620629792412
     m_SerializedTextureGuid:
-      m_GuidLow: 9355184072663507476
-      m_GuidHigh: 14988693032441982555
+      m_GuidLow: 11661089376952531705
+      m_GuidHigh: 2338677328370326330
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: heart
@@ -91,8 +91,8 @@ MonoBehaviour:
       m_GuidLow: 5133389534338811658
       m_GuidHigh: 6586614001369951364
     m_SerializedTextureGuid:
-      m_GuidLow: 6117024033977810615
-      m_GuidHigh: 16800423330913758490
+      m_GuidLow: 6594618497714772084
+      m_GuidHigh: 8425662886834520635
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: plant
@@ -101,8 +101,8 @@ MonoBehaviour:
       m_GuidLow: 4732290582109542495
       m_GuidHigh: 14782064881023489164
     m_SerializedTextureGuid:
-      m_GuidLow: 2829471143327448068
-      m_GuidHigh: 16915078520708730280
+      m_GuidLow: 1284744584615913733
+      m_GuidHigh: 6086714364431964842
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: skeleton
@@ -111,8 +111,8 @@ MonoBehaviour:
       m_GuidLow: 4761686619083862622
       m_GuidHigh: 3912670830776821937
     m_SerializedTextureGuid:
-      m_GuidLow: 13426598203427717502
-      m_GuidHigh: 14682026470130524346
+      m_GuidLow: 17538419906097629768
+      m_GuidHigh: 10215069495597187226
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: earth
